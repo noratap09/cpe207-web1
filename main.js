@@ -3,7 +3,7 @@ var temp = '';
 for(var i=1;i<=10;i++)
 {
     console.log("data:"+i);
-    temp += i+'<br>';
+    temp += i+' ';
 }
 
 //document.querySelector('#output').innerHTML = temp;
